@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "AI-BOT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Untold01.aternos.me",
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I am AI BOT ",
+        
+  
       ]
     },
     "chat-log": true,
@@ -47,7 +47,7 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
